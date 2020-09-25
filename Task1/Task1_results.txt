@@ -1,0 +1,37 @@
+n_gram=1, BOW,
+64
+learning_rate = 0.01, batch_size = 64, ngram=1:
+Best_epoch: 30, Smallest_loss: 1.1637, Best_val_accuary: 0.5367
+
+learning_rate = 0.1, batch_size = 64, ngram=1:
+Best_epoch: 29, Smallest_loss: 1.0143, Best_val_accuary: 0.5985
+
+learning_rate = 1, batch_size = 64, ngram=1:
+Best_epoch: 28, Smallest_loss: 0.9339, Best_val_accuary: 0.6425
+
+learning_rate = 2, batch_size = 64, ngram=1:
+Best_epoch: 28, Smallest_loss: 0.9426, Best_val_accuary: 0.6444
+
+learning_rate = 4, batch_size = 64, ngram=1:
+Best_epoch: 22, Smallest_loss: 0.9623, Best_val_accuary: 0.6404
+
+learning_rate = 2, batch_size = 1, ngram=1:
+Best_epoch: 23, Smallest_loss: 6.1568, Best_val_accuary: 0.5897, Time = 47819.690
+
+learning_rate = 2, batch_size = 64, ngram=1:
+Best_epoch: 28, Smallest_loss: 0.9426, Best_val_accuary: 0.6444, Time = 6334.374
+
+learning_rate = 2, batch_size = 128, ngram=1:
+Best_epoch: 28, Smallest_loss: 0.9338, Best_val_accuary: 0.6424, Time = 6261.490
+
+learning_rate = 2, batch_size = 123700, ngram=1:
+Best_epoch: 30, Smallest_loss: 1.2599, Best_val_accuary: 0.5082, Time = 5686.931
+
+learning_rate = 2, batch_size = 64, ngram=2:
+Best_epoch: 30, Smallest_loss: 1.0039, Best_val_accuary: 0.6345, Time = 90949.675
+
+learning_rate = 2, batch_size = 64, TF-IDF:
+Best_epoch: 28, Smallest_loss: 0.9276, Best_val_accuary: 0.6361, Time = 5375.971
+
+
+

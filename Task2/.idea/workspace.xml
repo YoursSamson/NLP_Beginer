@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2f069e1-c946-4cb6-90d9-91b8a4434fd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="302ba398-0ec1-4a70-beef-3b9511de6e46" />
+  <component name="ProjectId" id="1gOrJsJMfuDuzuobQEZpCwTldxa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProject\NLP_Beginer\Task2\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_rnn (1)">
+    <configuration name="pre_data_lstm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_data_lstm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\PycharmProject\NLP_Beginer\Task2\train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_lstm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_lstm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_rnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LSTM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTM/train_rnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_w2v" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Task2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_w2v.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_rnn (1)" />
+        <item itemvalue="Python.train_w2v" />
+        <item itemvalue="Python.train_lstm" />
+        <item itemvalue="Python.pre_data_lstm" />
+        <item itemvalue="Python.train_rnn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2f069e1-c946-4cb6-90d9-91b8a4434fd7" name="Default Changelist" comment="" />
+      <created>1597996410579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597996410579</updated>
+      <workItem from="1597996428207" duration="3125000" />
+      <workItem from="1598012964900" duration="274000" />
+      <workItem from="1598149356158" duration="11367000" />
+      <workItem from="1598340761649" duration="66000" />
+      <workItem from="1599133242573" duration="40233000" />
+      <workItem from="1599379598658" duration="56258000" />
+      <workItem from="1599787789047" duration="1872000" />
+      <workItem from="1599966488625" duration="11462000" />
+      <workItem from="1600066642484" duration="253000" />
+      <workItem from="1600080730164" duration="4570000" />
+      <workItem from="1600088105634" duration="7094000" />
+      <workItem from="1600235977259" duration="13025000" />
+      <workItem from="1600347496175" duration="2331000" />
+      <workItem from="1600425172741" duration="2750000" />
+      <workItem from="1600524419603" duration="62752000" />
+      <workItem from="1600911851553" duration="6054000" />
+      <workItem from="1600933145816" duration="17249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2371" y="91" key="#Deployment" timestamp="1600172000412">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2371" y="91" key="#Deployment/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600172000412" />
+    <state x="361" y="72" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1599202930636" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1600755483519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2605" y="212" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599787832042" />
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600755483519" />
+    <state width="1029" height="352" key="GridCell.Tab.0.bottom" timestamp="1600954499077">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782072966" />
+    <state width="1485" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600945157583" />
+    <state width="1029" height="352" key="GridCell.Tab.0.bottom/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600954499077" />
+    <state width="1029" height="352" key="GridCell.Tab.0.center" timestamp="1600954499077">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902213" />
+    <state width="1869" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782072966" />
+    <state width="1485" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600945157583" />
+    <state width="1029" height="352" key="GridCell.Tab.0.center/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600954499077" />
+    <state width="1029" height="352" key="GridCell.Tab.0.left" timestamp="1600954499077">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902213" />
+    <state width="1869" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782072966" />
+    <state width="1485" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600945157583" />
+    <state width="1029" height="352" key="GridCell.Tab.0.left/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600954499077" />
+    <state width="1029" height="352" key="GridCell.Tab.0.right" timestamp="1600954499077">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782072966" />
+    <state width="1485" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600945157583" />
+    <state width="1029" height="352" key="GridCell.Tab.0.right/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600954499077" />
+    <state width="1029" height="508" key="GridCell.Tab.1.bottom" timestamp="1600953903920">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782086475" />
+    <state width="1485" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600941752462" />
+    <state width="1029" height="508" key="GridCell.Tab.1.bottom/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600953903920" />
+    <state width="1029" height="508" key="GridCell.Tab.1.center" timestamp="1600953903920">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782086475" />
+    <state width="1485" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600941752462" />
+    <state width="1029" height="508" key="GridCell.Tab.1.center/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600953903920" />
+    <state width="1029" height="508" key="GridCell.Tab.1.left" timestamp="1600953903920">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782086474" />
+    <state width="1485" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600941752462" />
+    <state width="1029" height="508" key="GridCell.Tab.1.left/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600953903920" />
+    <state width="1029" height="508" key="GridCell.Tab.1.right" timestamp="1600953903920">
+      <screen x="1920" y="0" width="1080" height="1870" />
+    </state>
+    <state width="1029" height="95" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600911419951" />
+    <state width="742" height="112" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600849902214" />
+    <state width="1869" height="355" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782086475" />
+    <state width="1485" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600941752462" />
+    <state width="1029" height="508" key="GridCell.Tab.1.right/1920.0.1080.1870/0.0.1536.824@1920.0.1080.1870" timestamp="1600953903920" />
+    <state x="1920" y="128" key="SettingsEditor" timestamp="1600859970692">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="1920" y="128" key="SettingsEditor/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600859970692" />
+    <state x="2276" y="71" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600242544614" />
+    <state x="285" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599221375143" />
+    <state width="970" height="531" key="XDebugger.FullValuePopup" timestamp="1600782221042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="970" height="531" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600782221042" />
+    <state width="776" height="420" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1600758660465" />
+    <state x="2558" y="182" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1600172010670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2558" y="182" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600172010670" />
+    <state x="510" y="144" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1536.824@0.0.1536.824" timestamp="1599221372136" />
+    <state x="2745" y="180" key="ftp.server.browser" timestamp="1600087858526">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2745" y="180" key="ftp.server.browser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600087858525" />
+    <state x="660" y="143" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1598155612689" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_cnn.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LSTM/train_rnn.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_w2v.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task2$pre_data_lstm.coverage" NAME="pre_data_lstm Coverage Results" MODIFIED="1600917205098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1598165606140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$train_rnn.coverage" NAME="train_rnn Coverage Results" MODIFIED="1600916558218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LSTM" />
+    <SUITE FILE_PATH="coverage/Task2$pre_data_cnn.coverage" NAME="pre_data_cnn Coverage Results" MODIFIED="1600690573026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$test.coverage" NAME="test Coverage Results" MODIFIED="1600693978448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$pre_data_w2v.coverage" NAME="pre_data_w2v Coverage Results" MODIFIED="1600437717960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$train_lstm.coverage" NAME="train_lstm Coverage Results" MODIFIED="1600917211827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$train_w2v.coverage" NAME="train_w2v Coverage Results" MODIFIED="1600942329241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$TextLSTM.coverage" NAME="TextLSTM Coverage Results" MODIFIED="1600091003699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Task2$train.coverage" NAME="train Coverage Results" MODIFIED="1600171106569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$pre_data__1_.coverage" NAME="pre_data (1) Coverage Results" MODIFIED="1599643814390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task2$train_rnn__1_.coverage" NAME="train_rnn (1) Coverage Results" MODIFIED="1600954499071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
